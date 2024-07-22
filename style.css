@@ -1,0 +1,70 @@
+#profile_picture {
+  width: 8em;
+  height: 10em;
+  border-radius:1em ;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+body {
+
+  background-color:#556b2f;
+}
+p {
+  color:#000000;
+  font-family:"Montserrat", sans-serif;
+  margin-top: 2em auto;
+  margin-bottom: 2em auto;
+}
+.card {
+  background-color:#ffffff;
+  border-radius: 0.5em;
+  border: 0.2em ;
+  padding: 0.4em;
+  text-align: center;
+  width: 70em;
+  margin:0.5em auto;
+}
+h1, h2, h3 {
+  font-family: "Manrope", sans-serif;
+}
+h1 {
+  line-height: 3em;
+}
+.button {
+  text-decoration: none;
+  border: 0.1em;
+  border-radius: 0.5em;
+  display: inline-block ;
+  padding: 0.5em 1em;
+  margin-top: 1em;
+  transition:0.3s ease;
+  box-shadow: 0px 0px 16px rgba(0,0,0,0.1);
+    font-weight: 500;
+}
+.red-button {
+  background-color: #e60f05;
+  color: #f5f5f5;
+  width: 6em;
+  height: auto;
+  padding: 1em ;
+  margin-top: 1em;
+
+}
+.red-button:hover {
+  background-color:#ff0000;
+}
+
+img {
+  width: 1.5em;
+  height: 1em;
+}
+a {
+  color : black ;
+}
+li {
+  list-style: none;
+  display: inline-block;
+
+}
+ul {
+  padding: 0;
+}
